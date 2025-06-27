@@ -24,7 +24,7 @@ app.post('/grades', (req, res) => {
 
 const port = 3000;
 app.listen(port, () => {
-  console.log('Hi Durgessh');
+  console.log('Hi Durgesh');
   console.log(`Grade service is running on port ${port}`);
 });
 
